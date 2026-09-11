@@ -7,7 +7,7 @@ int gewicht = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(Naar welke postcode wenst u dit pakket te versturen);
 int postcode = Convert.ToInt32(Console.ReadLine());
 
-Zoek postcode
+//Zoek postcode
 bool gevonden = false;
 int index = 0;
 do
@@ -20,7 +20,7 @@ do
     else
         index++;
 } while (!gevonden && index  postcodes.Length);
-berekenprijs
+//berekenprijs
 if (gevonden)
 {
     int prijs = gewicht  kgpergemeente[index];
