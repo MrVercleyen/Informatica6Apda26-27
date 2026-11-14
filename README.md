@@ -19,8 +19,10 @@ In deze repository kunnen jullie al het cursusmateriaal terugvinden voor de less
   - [Compositie & Aggregatie](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Softwareontwikkeling/CompAggr)
   - [Overerving](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Softwareontwikkeling/Overerving)
   - [WinForms](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Softwareontwikkeling/Winforms)
+  - [LeerstofOverzicht](https://github.com/MrVercleyen/Informatica6Apda26-27/blob/main/Softwareontwikkeling/LeerstofOverzicht_December.md)
 - [Webedevelopment](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Webdevelopment)
   - [Javascript Oefeningen](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Webdevelopment/Javascript)
+  - [LeerstofOverzicht](https://github.com/MrVercleyen/Informatica6Apda26-27/blob/main/Webdevelopment/LeerstofOverzicht_December.md)
 
 ## Lokaal binnenhalen
 
