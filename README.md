@@ -12,11 +12,13 @@ In deze repository kunnen jullie al het cursusmateriaal terugvinden voor de less
 - [DataCommunicatie](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Datacommunicatie)
   - [H1 Inleiding](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Datacommunicatie/H1_Inleiding)
   - [H2 NetwerkTopologieën](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Datacommunicatie/H2_NetwerkTopologie%C3%ABn)
+  - [H3_ThuisNetwerken](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Datacommunicatie/H3_Thuisnetwerken)
   - [LeerstofOverzicht](https://github.com/MrVercleyen/Informatica6Apda26-27/blob/main/Datacommunicatie/LeerstofOverzicht_December_Semester1.md)
 - [IT-Support](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/ITSupport)
 - [SoftwareOntwikkeling](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Softwareontwikkeling)
   - [Compositie & Aggregatie](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Softwareontwikkeling/CompAggr)
   - [Overerving](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Softwareontwikkeling/Overerving)
+  - [WinForms](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Softwareontwikkeling/Winforms)
 - [Webedevelopment](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Webdevelopment)
   - [Javascript Oefeningen](https://github.com/MrVercleyen/Informatica6Apda26-27/tree/main/Webdevelopment/Javascript)
 
